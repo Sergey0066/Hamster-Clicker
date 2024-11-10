@@ -1,0 +1,28 @@
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\bin\Debug\ClickerApp.exe.config
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\bin\Debug\ClickerApp.exe
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\bin\Debug\ClickerApp.pdb
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\MainWindow.baml
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\MainWindow.g.cs
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\App.g.cs
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp_MarkupCompile.cache
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.g.resources
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.Properties.Resources.resources
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.exe
+C:\Users\serge\source\repos\ClickerApp\ClickerApp\obj\Debug\ClickerApp.pdb
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\bin\Debug\ClickerApp.exe.config
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\bin\Debug\ClickerApp.exe
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\bin\Debug\ClickerApp.pdb
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\ClickerApp.csproj.AssemblyReference.cache
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\MainWindow.baml
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\MainWindow.g.cs
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\App.g.cs
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\ClickerApp_MarkupCompile.cache
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\ClickerApp.g.resources
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\ClickerApp.Properties.Resources.resources
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\ClickerApp.csproj.GenerateResource.cache
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\ClickerApp.csproj.CoreCompileInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\ClickerApp.exe
+C:\Users\serge\OneDrive\Рабочий стол\Разработка программ\ClickerApp Хомяк\ClickerApp\obj\Debug\ClickerApp.pdb
