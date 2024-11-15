@@ -6,4 +6,4 @@ Hamster Clicker - Это WPF проект который откроет клик
 
 Для запуска нажмите ClickerApp.sln и проект откроется.
 
-Приложение ClickerApp.exe сразу для запуска! [ссылка](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
+- Скомпилировал wpf в ClickerApp.exe для запуска: [ссылка](https://github.com/Sergey0066/KIttyMems/releases/tag/KittyMemsExe)
